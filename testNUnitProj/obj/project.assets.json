@@ -4958,11 +4958,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Arsen\\Internship\\Projects\\testNUnitProj\\testNUnitProj.csproj",
+      "projectUniqueName": "E:\\Arsen\\Internship\\Projects\\TestProj\\testNUnitProj\\testNUnitProj.csproj",
       "projectName": "testNUnitProj",
-      "projectPath": "E:\\Arsen\\Internship\\Projects\\testNUnitProj\\testNUnitProj.csproj",
+      "projectPath": "E:\\Arsen\\Internship\\Projects\\TestProj\\testNUnitProj\\testNUnitProj.csproj",
       "packagesPath": "C:\\Users\\Arsen\\.nuget\\packages\\",
-      "outputPath": "E:\\Arsen\\Internship\\Projects\\testNUnitProj\\obj\\",
+      "outputPath": "E:\\Arsen\\Internship\\Projects\\TestProj\\testNUnitProj\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
